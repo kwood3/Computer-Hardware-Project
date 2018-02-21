@@ -1,2 +1,4 @@
 # Computer-Hardware-Project
-Computer Hardware Project by Koby and Mike
+**Computer Hardware Project by Koby and Mike**
+</br>
+Subject: Network Adapters
