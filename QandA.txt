@@ -1,0 +1,33 @@
+Hardware Assignment network adapter
+
+Github rep: https://github.com/kwood3/Computer-Hardware-Project 
+ 
+What is the history of this computer part? 
+A number of experimental and early commercial LAN technologies were developed in the 1970s to solve the problem of slow interconnections between computer systems. The wireless network adapter was first introduced in places where a lan cable was difficult or impossible to install and use. The first wireless LAN came together in 1971 when networking technologies met radio communications at the University of Hawaii as a research project called ALOHNET.
+
+Why was this computer part developed?
+In the 1960 computers were starting to gain popularity in universities and research labs. The need for a connections between computer systems was increasing.
+
+What does this computer part connect to?
+A network adapter can connect to the PCI / PCI Express port on your motherboard. They can also connect through a usb port. In order for the network adapter to work you need wifi.Wifi uses radio waves the network adapter receives the wifi radio wave and allows you to use the computer.The wifi haves 2   
+
+What is this computer part?
+This computer part allows you to receive radio waves for the router so you can connect to the internet.
+  
+What are the costs for the part (budget version, high end version, etc.)
+1.25$ 100 - 125Mbps the cheapest adapter on ebay and the most expensive adapter is 2000-2500$ 12 Gb. But if your building a custom PC you can get a 65$ network adapter with 850 Mbps on amazon.ca.
+
+What is the purpose of this part?
+The wireless network adapter is popular because of its convenience of not having an ethernet cable running around your house.
+
+Who was the inventor of the part?
+Norman Abramson invented the first wireless computer communication network in 1971.
+
+What is the average cost of the part
+There cannot be an average cost of network adapters because their range of capability to process different bandwidths can be large. For example, some adapters can process 30 mbps while others can process up to 2 gbps.
+
+Sources: https://study.com/academy/lesson/network-interface-card-nic-types-function-definition.html 
+
+
+https://en.wikipedia.org/wiki/Wireless_LAN
+ 
