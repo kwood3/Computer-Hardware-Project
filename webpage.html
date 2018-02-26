@@ -1,59 +1,125 @@
 <!DOCTYPE html>
+<!-- Computer Hardware Project Webpage by Koby Wood -->
+<!-- Hardware Reasearch by Mike Zhigun (sources listed) -->
+
 <html>
-    <head>
-        <meta charset="utf-8">
-        <!--STYLE HEAD -->
-        <style media="screen">
-          .MainPageHead{
-            font-family: monospace;
-            font-weight: bold;
-            color: rgb(50,90,200);
-          }
-          #ImgHead{
-            float
-          }
-        </style>
+  <head>
+	    <meta charset= "utf-8">
+	    <title>Network Adapters by Koby and Mike</title>
 
-        <title>Network Adapters by Koby and Mike</title>
+      <!--Style of structure -->
+  	  <style>
 
-        <!-- HEADING -->
-        <h1 class="MainPageHead">Computer Hardware Project</h1>
-        <h2 class="MainPageHead">by Koby and Mike</h2>
-        <h3 class="MainPageHead">Network Adapters</h3>
-        <img  id="ImgHead" src="https://www.google.ca/imgres?imgurl=https%3A%2F%2Ffthmb.tqn.com%2FnPFIMig_DxcHy7lssFXfFuy_2vQ%3D%2F768x0%2Ffilters%3Ano_upscale()%2FD-Link_DFE-528TX-56a1ada73df78cf7726cfcc6.JPG&imgrefurl=https%3A%2F%2Fwww.lifewire.com%2Fintroduction-to-computer-network-adapters-817580&docid=D35abCBFaKwc-M&tbnid=jCWD9XY_2piidM%3A&vet=10ahUKEwi9r8PLqLfZAhWr7oMKHeiyBXwQMwiKAigAMAA..i&w=768&h=512&safe=strict&bih=918&biw=1280&q=network%20adapter&ved=0ahUKEwi9r8PLqLfZAhWr7oMKHeiyBXwQMwiKAigAMAA&iact=mrc&uact=8" alt="Network Adapter">
+    		body {
+    			min-width: 630px;
+    		}
 
-    </head>
-    <body>
-        <!--STYLE BODY-->
-        <style media="screen">
-            p{
-              font-family: monospace;
-            }
-            h4{
-              font-family: monospace;
-              color: blue;
-            }
-            div{
-              border: 1px solid black;
-            }
-        </style>
-         <!--DIVISIONS -->
-        <div id="Div1" name="Div1">
-          <h4>Section 1</h4>
-          <p>Paragrah1</p>
-          <p>Paragraph2</p>
-       </div>
-       <br />
-       <div id="Div2" name="Div2">
-         <h4>Section 2</h4>
-         <p>Paragraph1</p>
-         <p>Paragrah2</p>
-       </div>
-     </br>
-       <div id="Div3" name="Div3">
-         <h4>Section 3</h4>
-         <p>Paragraph 1</p>
-         <p>Paragraph 2</p>
-       </div>
-    </body>
+    		#container {
+    			padding-left: 200px;
+    			padding-right: 200px;
+    		}
+
+    		#container .column {
+    			position: relative;
+    			float: left;
+    		}
+
+    		#center {
+    			padding: 10px 20px;
+    			width: 100%;
+    		}
+
+    		#left {
+    			width: 180px;
+    			padding: 0 10px;
+    			right: 240px;
+    			margin-left: -100%;
+    		}
+
+    		/* Making sure the columns are the same height as each other and not infinite */
+    		#container {
+    			overflow: hidden;
+    		}
+    		#container .column {
+    			padding-bottom: 1001em;
+    			margin-bottom: -1000em;
+    		}
+
+    		/* Style of text and such */
+    		body {
+    			margin: 0;
+    			padding: 0;
+    			font-family:monospace;
+    			line-height: 1.5em;
+    		}
+
+    		p {
+    			/*Nothing needed */
+    		}
+
+    		nav ul {
+    			list-style-type: none;
+    			margin: 0;
+    			padding: 0;
+    		}
+
+    		nav ul a {
+    			color: darkblue;
+    			text-decoration: none;
+    		}
+
+    		#header {
+    			font-size: large;
+    			padding: 0.3em;
+    			background: rgb(109, 156, 237);
+          font-weight: bold;
+    		}
+
+    		#left {
+    			background: rgb(167, 191, 232);
+    		}
+
+    		#center {
+    			background: #fff;
+    		}
+
+    		#container .column {
+    			padding-top: 1em;
+    		}
+  	</style>
+  </head>
+
+  <body>
+    <!-- Header -->
+  	<header id="header"><p>Network Adapters by Koby and Mike</p></header>
+
+    <!-- Main text (body) -->
+  	<div id="container">
+
+  		<main id="center" class="column">
+  			<article>
+
+  				<h1>Heading</h1>
+  				<p>test</p>
+
+  			</article>
+  		</main>
+
+      <!-- Left Column Text -->
+  		<nav id="left" class="column">
+  			<h3>Sources:</h3>
+  			<ul>
+  				<li><a href="link">Link 1</a></li>
+  				<li><a href="link">Link 2</a></li>
+  				<li><a href="link">Link 3</a></li>
+  				<li><a href="link">Link 4</a></li>
+  				<li><a href="link">Link 5</a></li>
+  			</ul>
+        <h3>Github Repository:</h3>
+        <ul>
+          <li><a href ="https://github.com/kwood3/Computer-Hardware-Project">Click here</a></li>
+        </ul>
+  		</nav>
+  	</div>
+  </body>
 </html>
