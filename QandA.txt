@@ -1,0 +1,39 @@
+Hardware Assignment network adapter
+
+Github rep: https://github.com/kwood3/Computer-Hardware-Project 
+ 
+What is the history of this computer part? 
+A number of experimental and early commercial LAN technologies were developed in the 1970s to solve the problem of slow interconnections between computer systems. The wireless network adapter was first introduced in places where a lan cable was difficult or impossible to install and use. The first wireless LAN came together in 1971 when networking technologies met radio communications at the University of Hawaii as a research project called ALOHNET.
+
+Why was this computer part developed?
+In the 1960’s computers were starting to gain popularity in universities and research labs. The need for connections between computer systems was increasing. Developing a network adapter solves this problem.
+
+What does this computer part connect to?
+A network adapter can connect to the PCI / PCI Express port on your motherboard. They can also connect through a usb port. In order for the network adapter to work you need wifi provided by your ISP (internet service provider). Wifi uses radio waves and the network adapter receives the wifi radio waves which lets you use the internet. 
+
+What is this computer part?
+A network adapter is a component of a computer that is used for communicating over a network with another computer. It lets a computer to connect with another computer, server or any networking device over an LAN (local area network) connection. A network adapter can be used over a wired or wireless network.
+  
+What are the costs for the part (budget version, high end version, etc.)
+1.25$ 100 - 125Mbps is the cheapest adapter on (according to ebay) and the most expensive adapter is 2000-2500$ for 12 Gbps. Although, the average user only needs around 50 mbps.
+
+What is the purpose of this part?
+To connect your computer to a network to connect with servers, or other computers. The network adapter receives radio waves (wifi) from your ISP (internet service provider) and lets you connect to the internet.
+
+Who was the inventor of the part?
+Norman Abramson was believed to invent the first wireless computer communication network in 1971.
+
+What is the average cost of the part
+There cannot be an average cost of network adapters because their range of capability to process different bandwidths can vary. For example, some adapters can process 30 mbps while others can process up to 2 gbps.
+
+Sources: https://study.com/academy/lesson/network-interface-card-nic-types-function-definition.html 
+
+https://www.techopedia.com/definition/8546/network-adapter 
+
+https://en.wikipedia.org/wiki/Wireless_LAN 
+
+https://study.com/academy/lesson/network-interface-card-nic-types-function-definition.html 
+
+
+https://en.wikipedia.org/wiki/Wireless_LAN
+ 
